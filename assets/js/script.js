@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // TULISAN NGETIK SENDIRI INI BOS
     var typed = new Typed(".typing", {
-        strings: ["Freelancer",],
+        strings: ["Fotographer","videographer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
